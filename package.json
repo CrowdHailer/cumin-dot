@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/CrowdHailer/cumin-dot/issues"
   },
-  "homepage": "https://github.com/CrowdHailer/cumin-dot"
+  "homepage": "https://github.com/CrowdHailer/cumin-dot",
+  "devDependencies": {
+    "gulp-jasmine": "^0.3.0",
+    "gulp": "^3.8.7"
+  }
 }
