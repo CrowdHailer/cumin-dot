@@ -4,7 +4,8 @@
   "description": "curried indexing of javascript objects",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/gulp"
+    "test": "./node_modules/.bin/gulp",
+    "lint": "./node_modules/.bin/gulp lint"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/CrowdHailer/cumin-dot",
   "devDependencies": {
     "gulp-jasmine": "^0.3.0",
-    "gulp": "^3.8.7"
+    "gulp": "^3.8.7",
+    "gulp-jslint": "^0.1.6"
   }
 }

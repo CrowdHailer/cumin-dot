@@ -1,4 +1,6 @@
 describe('dot', function () {
+    'use strict';
+
     var dot, person;
 
     beforeEach(function () {
