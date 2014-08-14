@@ -1,6 +1,6 @@
 {
   "name": "cumin-dot",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "curried indexing of javascript objects",
   "main": "index.js",
   "scripts": {
